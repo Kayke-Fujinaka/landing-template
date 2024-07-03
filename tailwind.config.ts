@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     colors: {
       transparent: 'transparent',
-      paragraph: '#ADB5BD',
+      gray: '#ADB5BD',
       footer: '#202942',
       red: '#E43F52'
     },
