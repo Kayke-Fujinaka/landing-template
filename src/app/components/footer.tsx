@@ -12,7 +12,7 @@ export default function Footer() {
             <Image width={100} height={100} src="/images/next.svg" alt="Logo" />
           </Link>
           <p className="text-black">
-            Start working with Landrick that can provide everything you need to
+            Start working with Template that can provide everything you need to
             generate <br /> awareness, drive traffic, connect.
           </p>
 
@@ -27,9 +27,9 @@ export default function Footer() {
 
         <div className="w-full my-8">
           <p>
-            © 2024 Landrick. Design & Develop with{" "}
+            © 2024 Template. Design & Develop with{" "}
             <FavoriteIcon className="text-red" />
-            by Shreethemes.
+            by Kayke.
           </p>
         </div>
       </footer>
