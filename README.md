@@ -1,1 +1,1 @@
-Corporate Landing Template
+Landing Template
