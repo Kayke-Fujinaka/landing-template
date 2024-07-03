@@ -8,7 +8,6 @@ export default function Footer() {
     <>
       <footer className="flex flex-col items-center text-center w-full text-gray bg-footer bg-footer-texture">
         <div className="flex flex-col items-center gap-6 py-28">
-          {/* Adicionar Logo */}
           <Link href="#">
             <Image width={100} height={100} src="/images/logo.png" alt="Logo" />
           </Link>
